@@ -4,9 +4,9 @@
 
 ## 🧑‍💻 About Me:
 
-- 📚 Learning and practicing **MLOps** tools and workflows.
-- 🧠 Interested in building robust ML pipelines.
-- ⚙️ Focused on clean code, automation, and scalability.
+At the beginning of my MLOps journey — learning with intention and focus.  
+I enjoy building things that actually run and scale.  
+Quietly passionate about pipelines, automation, and doing things the right way.
 
 ---
 
@@ -18,7 +18,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit‑learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-3F54A3?style=for-the-badge&logo=mlflow&logoColor=white)
 
@@ -26,8 +26,8 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aboodcs&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboodcs&layout=compact&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aboodcs&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aboodcs&layout=compact&theme=gruvbox)
 
 ---
 
