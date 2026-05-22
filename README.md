@@ -1,37 +1,64 @@
-<h1 align="center">👋 Welcome to my GitHub</h1>
+<!-- Header banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffe5,100:0d1117&height=140&section=header&text=Junior%20DevOps%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Automation%20·%20CI/CD%20·%20Cloud%20Native%20Systems&descSize=16&descAlignY=78&descColor=00ffe5" />
+</div>
 
 ---
 
-## 🧑‍💻 About Me:
+## 🧑‍💻 About Me
 
-At the beginning of my MLOps journey — learning with intention and focus.  
-I enjoy building things that actually run and scale.  
-Quietly passionate about pipelines, automation, and doing things the right way.
+Junior DevOps Engineer focused on building reliable, automated, and scalable systems.
+
+I enjoy working with CI/CD pipelines, containers, and cloud-native tools — turning manual processes into automated workflows that actually scale.
+
+Certified in **End-to-End MLOps Bootcamp**, now transitioning into DevOps engineering with strong hands-on focus.
 
 ---
 
-## 🧰 Tech Stack:
+## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-3F54A3?style=for-the-badge&logo=mlflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📜 Certification
+
+- End-to-End MLOps Bootcamp Certificate
+
+---
+
+## ⚙️ What I Work On
+
+- CI/CD automation using GitHub Actions  
+- Containerization with Docker  
+- Kubernetes basics and deployments  
+- Linux system operations  
+- Python scripting for automation  
+- Git workflows and collaboration  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aboodcs&show_icons=true&theme=gruvbox)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aboodcs&layout=compact&theme=gruvbox)
+
+</div>
 
 ---
 
-## 💬 Dev Quote:
+## 💬 Dev Mindset
 
-> "Simplicity is the soul of efficiency."  
-> – Austin Freeman
+> “Automate what can be automated. Understand what runs behind the system.”
