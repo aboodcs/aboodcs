@@ -1,90 +1,78 @@
+<!-- Header -->
 <div align="center">
-
-```
-  ____  __  __  ____  ____  ____  ____
- /   _\/  \/  \/  _ \/  _ \/   _\/ ___\
- |  /  |  \/  || | //| | //|  /  |    \
- |  \_ |    /|| |_\\| |_\\|  \_ \___ |
- \____/\__/\_/\____/\____/\____/\____/
-```
-
-### Abdulrehman Abulaban &nbsp;·&nbsp; Junior DevOps Engineer
-
-*containers, pipelines, and the spaces between*
-
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Abdulrehman%20Abulaban&fontSize=42&fontColor=ffffff&fontAlignY=70&animation=fadeIn&desc=Junior%20DevOps%20Engineer&descSize=18&descAlignY=88&descColor=aaaaaa" width="100%" />
 </div>
-
----
 
 <br/>
 
-```yaml
-# whoami.yaml
-
-name: Abdulrehman Abulaban
-role: Junior DevOps Engineer
-status: Building · Learning · Shipping
-
-focus:
-  - Making deployments boring (in a good way)
-  - Learning AWS from the ground up
-  - Writing automation that runs while I sleep
-
-currently_studying:
-  - AWS Solutions Architect Associate (SAA-C03)
-```
+<!-- Status bar -->
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20work-brightgreen?style=flat-square&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-DevOps%20%26%20Cloud-blue?style=flat-square&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STUDYING-AWS%20SAA--C03-FF9900?style=flat-square&labelColor=0d1117&logo=amazonaws&logoColor=FF9900" />
+</div>
 
 <br/>
 
 ---
 
-## What I work with
+## `$ cat about.txt`
 
-**I know:**
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-
-**I'm learning:**
-
-![AWS](https://img.shields.io/badge/AWS_SAA--C03_in_progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+```
+Name     →  Abdulrehman Abulaban
+Role     →  Junior DevOps Engineer
+Mission  →  Automate everything. Break nothing in production.
+Now      →  Studying AWS · Deepening Linux & container skills
+Goal     →  Build infrastructure that just works
+```
 
 ---
 
-## 📜 Certifications
-
-| Certificate | Provider | Status |
-|---|---|---|
-| End-to-End MLOps Bootcamp | Udemy | ✅ Completed |
-| AWS Solutions Architect Associate (SAA-C03) | AWS / Udemy | 📖 In Progress |
-
----
-
-## 📊 GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aboodcs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboodcs&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" height="150"/>
-</div>
-
----
-
-## 📬 Find me
+## `$ ls skills/`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulrehmanabulaban-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehmanabulaban/)
-[![Gmail](https://img.shields.io/badge/Gmail-aboodyahya411@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aboodyahya411@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aboodcs-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aboodcs)
+| Known | Learning |
+|:---:|:---:|
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS_SAA--C03-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | |
 
 </div>
 
 ---
 
+## `$ git log --oneline --graph`
+
 <div align="center">
-  <sub><i>"First make it work. Then make it automatic."</i></sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aboodcs&bg_color=0d1117&color=ffffff&line=444466&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&radius=6" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aboodcs&theme=dark&hide_border=true&background=0d1117&stroke=333355&ring=ffffff&fire=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555577&sideNums=ffffff&currStreakNum=ffffff" height="155"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboodcs&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" height="155"/>
+</div>
+
+---
+
+## `$ ping -c1 abdulrehman`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehmanabulaban/)
+[![Gmail](https://img.shields.io/badge/─%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboodyahya411@gmail.com)
+[![GitHub](https://img.shields.io/badge/─%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aboodcs)
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:0d1117&height=80&section=footer&reversal=true" width="100%" />
+  <br/>
+  <sub><code>// ship it. automate it. sleep well.</code></sub>
 </div>
